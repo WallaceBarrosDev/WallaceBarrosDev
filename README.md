@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+<h2 align="left">Minhas Estatísticas</h2>
+
 ###
 
 <br clear="both">
