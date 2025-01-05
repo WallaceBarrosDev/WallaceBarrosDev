@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Estatísticas</h1>
 
-<!--
-**WallaceBarrosDev/WallaceBarrosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WallaceBarrosDev&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=1&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WallaceBarrosDev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=true&order=1" height="200" alt="stats graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h1 align="center">Linguagens Utilizadas</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/WallaceBarrosDev/WallaceBarrosDev/output/snake.svg" alt="Snake animation" />
+
+###
