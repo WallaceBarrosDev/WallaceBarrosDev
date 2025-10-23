@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá, meu nome é Wallace.<br>💻 Sou desenvolvedor frontend.<br>📅 Tenho 22 anos.<br>🌎 Brasileiro, vivendo em Goiânia.</p>
+<p align="left">👋 Olá, meu nome é Wallace.<br>💻 Sou desenvolvedor fullstack.<br>📅 Tenho 22 anos.<br>🌎 Brasileiro, vivendo em Goiânia.</p>
 
 ###
 
